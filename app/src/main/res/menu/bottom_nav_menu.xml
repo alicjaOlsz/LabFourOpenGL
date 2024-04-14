@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/triangle"
+        android:icon="@drawable/baseline_triangle"
+        android:title="Triangle"/>
+    <item
+        android:id="@+id/cube"
+        android:icon="@drawable/baseline_cube"
+        android:title="Cube"/>
+    <item
+        android:id="@+id/plane"
+        android:icon="@drawable/baseline_plane"
+        android:title="Plane"/>
+</menu>
